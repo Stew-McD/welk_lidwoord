@@ -3,7 +3,7 @@
 
 ### Which article does that Dutch noun have?
 
-A short bash script to return a given Dutch word along with its article and english translation
+A short bash script to return a given Dutch word along with its article and translation (EN/DE/FR)
 
 Created because I could not find a CLI translator or dictionary that would give me what I needed (without double translating and adding "the", which sometimes returns a synonym)
 
