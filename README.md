@@ -15,5 +15,7 @@ Uses [curl](http://curl.haxx.se/) to pull from [welklidwoord.nl](http://welklidw
 
    `bash welk-lidwoord.sh <WORD>`
 
+### Problemas?
 
+probably they changed the structure of their shitty website
 
